@@ -240,7 +240,7 @@
     1）本次测评只使用了4到题目，目的仅是个例研究，并进行自动化测评的尝试；它不是大范围的测评或基准测评。
     2）使用GPT-4做模型评估的，虽然在Vicuna、凤凰等模型中有先例，但GPT-4给出的点评和分数，仅做参考，并不是唯一的。
     3）仅使用了9个模型进行测评，没有充分覆盖国内一些闭源和开源模型。
-    4）本次测试没有引入人类测评；虽然后续不排除引入人类测评，作文对比。
+    4）本次测试没有引入人类测评；虽然后续不排除引入人类测评，作为对比。
 
 ### 沟通与交流
 
@@ -248,3 +248,10 @@
   <img src="https://github.com/CLUEbenchmark/SuperCLUEgkzw/blob/main/resources/img/gkzw.jpeg"  width="30%" height="30%"></img>
   <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/brightmart_s.jpeg"  width="30%" height="30%"></img>
 </p> 
+
+### 相关阅读
+1、<a href='https://mp.weixin.qq.com/s/OK5NLLVSBLb-4QsnqGp45g'>300美元复刻ChatGPT九成功力，GPT-4亲自监考，130亿参数开源模型「小羊驼」来了</a>
+
+2、<a href='https://mp.weixin.qq.com/s/WLYmwT1LJ9YGFdW3GRZ55A'>GPT-4充当评测老师，效果惊艳，港中文(深圳)开源凤凰、Chimera等大模型</a>
+
+
