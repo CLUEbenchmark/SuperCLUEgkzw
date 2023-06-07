@@ -42,7 +42,7 @@ SuperCLUE高考作文-个例研究
 <a href='https://docs.qq.com/sheet/DRWxLeGNYWnJMc3ll?tab=BB08J2'>高考作文-大模型测评</a>
 包括国内外大模型的作文，使用的Prompt，各个题目的分数。
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUEgkzw/blob/main/resources/gkzw.png"  width="90%" height="90%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUEgkzw/blob/main/resources/img/gkzw.png"  width="90%" height="90%"></img>
 
 
 ### 局限性和不足
@@ -54,6 +54,6 @@ SuperCLUE高考作文-个例研究
 ### 沟通与交流
 
 <p float="left">   
-  <img src="https://github.com/CLUEbenchmark/SuperCLUEgkzw/blob/main/resources/gkzw.jpeg"  width="30%" height="30%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUEgkzw/blob/main/resources/img/gkzw.jpeg"  width="30%" height="30%"></img>
   <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/brightmart_s.jpeg"  width="30%" height="30%"></img>
 </p> 
